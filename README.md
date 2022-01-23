@@ -6,3 +6,5 @@ An arduino nano, connected to the 4 sensors through its analog inputs, is used t
 
 To build the model, training data is required. So I've collected around 8000 observations during which the 4 sensors are exposed to 5 differents types of polluant gas : CO2/Smoke (4522 observations), Alchool (996), Flammable gas (780), exhaust gas (696) and CO (336). Please find attached these data in csv formatted file.
 So let's begin!
+
+Code is clearly documented.
